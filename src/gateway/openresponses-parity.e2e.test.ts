@@ -5,7 +5,7 @@
  * support in the OpenResponses `/v1/responses` endpoint.
  */
 
-import { describe, it, expect } from "vitest";
+import { describe, it, expect } from pnpm ;
 
 describe("OpenResponses Feature Parity", () => {
   describe("Schema Validation", () => {
